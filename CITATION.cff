@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use HDT² in your research, please cite this work."
+title: "HDT²: A Pilot Framework for Entropy-Band Calibration of LLM Reasoning Stability"
+authors:
+  - family-names: Tisler
+    given-names: Bruce
+doi: 10.5281/zenodo.17621326
+url: "https://github.com/btisler-DS/hdt2-entropy-band-calibration"
+license: "CC-BY-NC-SA-4.0"
+version: "1.0.0"
+date-released: "2025-11-16"
